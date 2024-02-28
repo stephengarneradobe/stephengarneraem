@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# Adobe Experience Manager Edge Delivery Services
+Solutions Architecture Internal Edge Delivery Services 
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview:
+- Live:
 
 ## Installation
 
